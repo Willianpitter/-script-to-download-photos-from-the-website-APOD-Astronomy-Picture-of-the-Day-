@@ -270,4 +270,4 @@ echo nomeParaDownload
 ("image/1811/JupiterSwirls_JunoBrealey_960.jpg");
 */
 
-hoardAllMonthImages(18, 10); 
+hoardAllMonthImages(18, 10);
