@@ -6,7 +6,7 @@
  * Time: 12:48
  */
 
-/*
+/* ue
  * há duas formas de um qq software se associar a outro
  * via código fonte
  * via código binário (exemplo via DLLs)
